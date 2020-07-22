@@ -1,9 +1,11 @@
 import React from 'react';
 
+import LinearBinary from './linearBinary';
+
 function App() {
   return (
     <main className='App'>
-      {/* content goes here */}
+      <LinearBinary />
     </main>
   );
 }
